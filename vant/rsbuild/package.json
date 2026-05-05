@@ -12,12 +12,12 @@
     "vue": "^3.4.12"
   },
   "devDependencies": {
-    "@rsbuild/core": "^1.0.4",
-    "@rsbuild/plugin-less": "^1.0.1",
-    "@rsbuild/plugin-vue": "^1.0.1",
+    "@rsbuild/core": "^2.0.3",
+    "@rsbuild/plugin-less": "^1.6.3",
+    "@rsbuild/plugin-vue": "^1.2.7",
     "@vant/auto-import-resolver": "^1.1.0",
     "typescript": "^5.3.3",
-    "unplugin-auto-import": "^0.17.5",
-    "unplugin-vue-components": "^0.26.0"
+    "unplugin-auto-import": "^21.0.0",
+    "unplugin-vue-components": "^32.0.0"
   }
 }
